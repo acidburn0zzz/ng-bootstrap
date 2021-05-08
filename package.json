@@ -106,7 +106,7 @@
     "karma-jasmine": "~2.0.1",
     "karma-sauce-launcher": "^2.0.2",
     "marked": "^0.7.0",
-    "ng-packagr": "~5.4.0",
+    "ng-packagr": "~10.1.1",
     "ngx-build-plus": "^8.1.4",
     "nyc": "14.1.1",
     "prismjs": "1.16.0",
